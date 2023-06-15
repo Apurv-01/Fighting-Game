@@ -1,0 +1,7 @@
+body{
+    background-color: grey;
+}
+.game-canvas{
+    margin-top: 20px;
+    align-self: center;
+}
